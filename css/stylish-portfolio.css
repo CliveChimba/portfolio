@@ -284,14 +284,16 @@ a:hover, a:focus, a:active {
 }
 
 .btn-secondary {
-  background-color: #ecb807 !important;
-  border-color: #ecb807 !important;
-  color: #fff !important;
+  background-color: #1d819f00 !important;
+  border-color: #66fcf1 !important;
+  color: #c5c6c7 !important;
+  padding: 2% !important;
 }
 
 .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
-  background-color: #ba9106 !important;
-  border-color: #ba9106 !important;
+  background-color: #66fcf24d !important;
+  border-color: #66fcf1 !important;
+  padding: 2% !important;
 }
 
 .btn-dark {
@@ -338,6 +340,11 @@ hr {
   font-size: small;
   color: #45a29e;
 }
-
+input {
+  background-color: #45a29e !important;
+}
+textarea {
+  background-color: #45a29e !important;
+}
 
 
